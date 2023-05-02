@@ -1,1 +1,2 @@
 this is story from story2.
+this is edited from branch 1
